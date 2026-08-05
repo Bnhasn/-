@@ -1,0 +1,6 @@
+{
+  "name": "نظام إدارة القوة البشرية العسكري",
+  "description": "نظام إلكتروني شامل لإدارة القوة البشرية العسكرية، الملف الإلكتروني للفرد، الجاهزية القتالية اللحظية، والتقارير الذكية لكل الإدارات",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

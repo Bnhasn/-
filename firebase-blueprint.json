@@ -1,0 +1,19 @@
+{
+  "entities": {
+    "military_data": {
+      "title": "Military Data Documents",
+      "description": "Stores synchronized personnel, armory, audit, alerts, and account records.",
+      "properties": {
+        "data": {
+          "type": "string",
+          "description": "JSON serialized dataset"
+        },
+        "updatedAt": {
+          "type": "string",
+          "description": "ISO Timestamp"
+        }
+      },
+      "required": ["data", "updatedAt"]
+    }
+  }
+}
